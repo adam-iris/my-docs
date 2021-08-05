@@ -1,2 +1,3 @@
-# my-docs
-Documentation
+# Documentation
+
+[GitHub](github.md)
