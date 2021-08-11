@@ -1,0 +1,36 @@
+# GitHub project settings
+
+- Options
+    - Settings
+        - Repository name
+        - Social preview
+    - Features
+        - [ ] Wikis
+        - [x] Restrict editing to users with push access only
+        - [x] Issues
+        - [ ] Sponsorships
+        - [ ] Projects
+        - [x] Preserve this repository
+        - [x] Table of contents
+        - [ ] Discussions
+    - Merge button
+        - [x] Allow merge commits
+        - [ ] Allow squash merging
+        - [ ] Allow rebase merging
+        - [ ] Allow auto-merge
+        - [ ] Automatically delete head branches
+    - Archives
+        - [ ] Include Git LFS objects in archives
+    - GitHub Pages
+    - Danger Zone
+- Manage access
+- Branches
+- Webhooks
+- Notifications
+- Integrations
+- Deploy keys
+- Actions
+- Environments
+- Secrets
+- Pages
+- Moderation settings
