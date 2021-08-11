@@ -7,7 +7,7 @@
     - Features
         - [ ] Wikis
         - [x] Restrict editing to users with push access only
-        - [x] Issues
+        - [x] [Issues](#issues)
         - [ ] Sponsorships
         - [ ] Projects
         - [x] Preserve this repository
@@ -34,3 +34,15 @@
 - Secrets
 - Pages
 - Moderation settings
+
+## Notes
+
+### Issues
+
+Use issue templates to prompt for useful information, eg:
+
+- Describe the actions you took
+- What did you expect to happen?
+- What actually happened?
+
+GitHub has some good built-in ones.
